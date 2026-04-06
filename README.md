@@ -31,9 +31,9 @@ I am currently creating a clone of Youtube and doing **open source** contributio
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
  ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-stats-eosin-nine.vercel.app/api?username=KrishGoyal06&v=1)
+![Your GitHub Stats](https://github-stats-kappa-weld.vercel.app/api?username=KrishGoyal06&v=1)
 
-![Top Languages](https://github-stats-eosin-nine.vercel.app/api/top-langs/?username=KrishGoyal06&layout=compact&theme=radical&v=1)
+![Top Languages](https://github-stats-kappa-weld.vercel.app/api/top-langs/?username=KrishGoyal06&layout=compact&theme=radical&v=1)
 
 
 ### 📫 Let's Connect
